@@ -103,6 +103,7 @@ body {
   /* margin: 0px auto; */
   border-radius: 20px;
   overflow: hidden;
+  box-shadow: 0px 25px 12px 0px rgb(223 219 252);
 }
 
 .body {
